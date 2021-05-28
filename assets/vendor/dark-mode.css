@@ -1,0 +1,73 @@
+[data-theme="dark"] {
+  background-color: #111 !important;
+  color: white;
+}
+[data-theme="dark"] #wrapper{
+  background-color: #111 !important;
+  color: white;
+}
+[data-theme="dark"] .navbar-nav{
+  background-color: #111 !important;
+  color: white;
+}
+[data-theme="dark"] .bg-primary {
+  background-color: #111 !important;
+  color: white;
+}
+[data-theme="dark"] .sidebar {
+  background-color: #111 !important;
+  color: white;
+}
+[data-theme="dark"] .sidebar-dark custom {
+  background-color: #111 !important;
+  color: white;
+}
+[data-theme="dark"] .custom {
+  background-color: #111 !important;
+  color: white;
+}
+
+[data-theme="dark"] .container{
+  background-color: #111 !important;
+  color: white;
+}
+[data-theme="dark"] .navbar-nav{
+  background-color: #330033;
+  color: #eee;
+}
+[data-theme="dark"] .list-group-item:not(.active){
+  background-color: #330033;
+  color: #eee;
+}
+[data-theme="dark"] .nav-item{
+  background-color: #330033;
+  color: #eee;
+}
+[data-theme="dark"] .nav-link{
+  background-color: #330033;
+  color: #eee;
+}
+[data-theme="dark"] .content{
+  background-color: #111;
+  color: #eee;
+}
+[data-theme="dark"] .ul{
+  background-color: #111 !important;
+  color: #eee;
+}
+
+[data-theme="dark"] .bg-light {
+  background-color: #333 !important;
+}
+[data-theme="dark"] .bg-gradient {
+  background-color: #000 !important;
+}
+
+
+[data-theme="dark"] .bg-white {
+  background-color: #000 !important;
+}
+
+[data-theme="dark"] .bg-black {
+  background-color: #eee !important;
+}
